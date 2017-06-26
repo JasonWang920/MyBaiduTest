@@ -1,0 +1,80 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#E1E6F6"
+    android:orientation="vertical" >
+
+    <com.example.administrator.mybaidutest.MyViewGroup
+        android:id="@+id/myView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        <TextView
+            android:text="       aaaaaaasdasd芬"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />   <TextView
+        android:text="       aaaaaaasdasd芬"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" />   <TextView
+        android:text="       aaaaaaasdasd芬"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" />   <TextView
+        android:text="       aaaaaaasdasd芬"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" />
+        <TextView
+        android:text="       aaaaaaasdasd芬"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" />
+        <TextView
+            android:text="       aaaaaaasdasd芬"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+        <TextView
+            android:text="       aaaaaaasdasd芬"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+        <TextView
+            android:text="       aaaaaaasdasd芬"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+        <TextView
+            android:text="       aaaaaaasdasd芬"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+        <TextView
+            android:text="       aaaaaaasdasd芬"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" /> <TextView
+        android:text="       aaaaaaasdasd芬"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" />
+        <TextView
+            android:text="       aaaaaaasdasd芬"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" /> <TextView
+        android:text="       aaaaaaasdasd芬"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" />
+        <TextView
+            android:text="       aaaaaaasdasd芬"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" /> <TextView
+        android:text="       aaaaaaasdasd芬"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" />
+        <TextView
+            android:text="       aaaaaaasdasd芬"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+        <TextView
+            android:text="       aaaaaaasdasd芬"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+
+
+
+
+    </com.example.administrator.mybaidutest.MyViewGroup>
+
+    </LinearLayout>
